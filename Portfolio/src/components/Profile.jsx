@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // Profile.jsx
 import React from 'react';
 import Adrian from '../Assets/Adrian.png';
